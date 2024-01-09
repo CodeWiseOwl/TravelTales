@@ -1,5 +1,5 @@
 # TravelTales 
-A Simple website about the info around the world just like wilipedia.
+A Simple website about the info around the world just like Wikipedia.
 
 # web devlopment project
 the website isnt being used for any commercial purposes
