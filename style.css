@@ -11,3 +11,7 @@ body {
 text-align: right;
 
 }
+
+img  {
+  float: left;
+}
