@@ -4,3 +4,7 @@ A Simple website about the info around the world just like Wikipedia.
 # web devlopment project
 the website isnt being used for any commercial purposes
 it is a simple project for a static site
+
+# credits
+coded by CodeWiseOwl
+Hosted by vercel.com
