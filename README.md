@@ -6,5 +6,6 @@ the website isnt being used for any commercial purposes
 it is a simple project for a static site
 
 # credits
-coded by CodeWiseOwl
-Hosted by vercel.com
+Programmed by CodeWiseOwl
+
+Hosted by https://vercel.com/
