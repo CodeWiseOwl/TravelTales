@@ -10,5 +10,3 @@ Programmed by CodeWiseOwl
 
 Hosted by https://vercel.com/
 
-PROJECT TEMPORARY CLOSED DUE TO ERROR ON THE SITE
-
